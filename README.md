@@ -1,3 +1,3 @@
 # satyam
-This is first Git repo
+This is my first Git repo
 Auther - Satyam Singh
